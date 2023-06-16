@@ -7,7 +7,7 @@ At the university, we had a writing assessment to do on a profession, and with m
 I began to learn HTML, CSS at first, as a hobby (I was still a teacher at the time). Then, I decided to take a year without teaching to think about what I really wanted to do with it. And I was so happy learning to code, that I decided to take a step further and to go to a school to learn JavaScript, React and... I quit my job ! Back to studies. For 2 years. And now... I am proud to be a wizard myself ! 🧙‍♀️✨
 
 - 🔭 I’m currently working on WindCharm... another weather app ! I know, I know, there are already sooo many out there. But hey look ! It will be made with Next.js and Tailwind CSS ! How cool is that. I also try to contribute to open-source, please be forgiving if I make rookie mistakes.
-- 🌱 I’m currently learning eco-design, TDD, Next.js, and improving my React knowledge. This list is a non-exhaustive list as I am a frenetic and enthusiastic learner : I honestly never stop.
+- 🌱 I’m currently learning eco-design, clean code, TDD, Next.js, and improving my React knowledge. This list is a non-exhaustive list as I am a frenetic and enthusiastic learner : I honestly never stop.
 - 👯 I’m looking for a team to work with, to share and build together, with eco-design, accessibility and great performances in mind. Hire me ! Won't be disappointed 😇
 - 📫 How to reach me: [adelinemorel.fr](https://adelinemorel.fr "Made with WordPress, just to try it !")
 
