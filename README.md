@@ -9,7 +9,7 @@ I began to learn HTML, CSS at first, as a hobby (I was still a teacher at the ti
 - 🔭 I’m currently working on WindCharm... another weather app ! I know, I know, there are already sooo many out there. But hey look ! It will be made with Next.js and Tailwind CSS ! How cool is that. I also try to contribute to open-source, please be forgiving if I make rookie mistakes.
 - 📚 I’m currently learning eco-design, clean code, TDD, Next.js, and improving my React knowledge. This list is a non-exhaustive list as I am a frenetic and enthusiastic learner : I honestly never stop.
 - 👯 I’m looking for a team to work with, to share and build together, with eco-design, accessibility and great performances in mind. Hire me ! Won't be disappointed 😇
-- 📫 How to reach me: [adelinemorel.fr/contact](https://adelinemorel.fr/#contact "Made with WordPress, just to try it !")
+- 📫 How to reach me: <a href="https://adelinemorel.fr/#contact" target="_blank">adelinemorel.fr/contact</a>
 
 Note : this is my first attempt to make a GitHub profile README ! I will improve it, I promise. Come back in a week or two and see... 😄
 
