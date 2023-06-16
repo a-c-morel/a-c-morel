@@ -1,6 +1,6 @@
 ### Hi there ! 👋
 
-I am **Adeline**, a french **Frontend Developper** you will enjoy working with ! ✨👩‍💻
+I am **Adeline**, a french **Frontend Developer** you will enjoy working with ! ✨👩‍💻
 
 I used to be a teacher 👩‍🏫 : a childhood dream come true. 🤩 But childhood dreams, sometimes, are just well... dreams, and I realized my real passion was making **dynamic**, **accessible**, **beautiful** and **performant** websites. How come ? I think it is the people I met, and friends I made along the way that made me realize. I was always listening to my developers friends talking of the projects they were working on, and what I was hearing was **passion**, **passion**, and **passion**.
 At the university, we had a writing assessment to do on a profession, and with my workgroup we chose to interview an e-learning developer. I think a seed 🌱 was sown in my brain at that exact moment. I didn't had a great look at it first because it was so tiny : I almost forgot it and continued my studies to become a teacher. But some day, as I was finally teaching, the seed became... a tree. 🌳 For me, this man we met was like a wizard you came to see, expressing your needs : "I would like my shop to have an app on which sellers can train themselves on their department" : okay, done ! "I want to be able to visualize in 3D the human organs so that my interns can learn anatomy" : also done ! What else do you need ? 🧙‍♂️
