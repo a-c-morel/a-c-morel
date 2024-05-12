@@ -1,3 +1,3 @@
 ### Hi there ! 👋
 
-I am **Adeline**, a french **Frontend Developer**.
+I am **Adeline**, a french **developer**.
